@@ -2,6 +2,8 @@
 
 This repository contains scaffolding for a product website which can be deployed on the Adobe Developer Site.
 
+The [landing page](index.md) for this product section can be found [here](index.md).
+
 All sections below in this `README.md`
 should be considered a template for a typical project `README.md`.
 
